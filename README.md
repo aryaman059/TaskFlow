@@ -20,6 +20,13 @@ GitHub Actions
    +--> Build / Validate
    |
    v
+CI Result
+
+
+GitHub Repository
+   |
+   | Manual deployment
+   v
 Oracle Cloud Infrastructure
    |
    v
